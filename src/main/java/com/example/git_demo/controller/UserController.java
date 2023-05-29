@@ -8,10 +8,11 @@ import org.springframework.http.converter.json.GsonBuilderUtils;
  */
 public class UserController {
     public static void main(String[] args) {
-
-        System.out.println("提交master 3");
-
-        System.out.println("提交branch_one 1");
+        System.out.println("hello git1");
+        System.out.println("hello git2");
+        System.out.println("hello git3");
+        System.out.println("hello git4");
+        System.out.println("master");
     }
 
 }

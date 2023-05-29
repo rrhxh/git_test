@@ -9,7 +9,7 @@ import org.springframework.http.converter.json.GsonBuilderUtils;
 public class UserController {
     public static void main(String[] args) {
 
-        System.out.println("提交master2");
+        System.out.println("提交master 3");
     }
 
 }
